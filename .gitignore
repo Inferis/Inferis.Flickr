@@ -1,0 +1,8 @@
+
+thumbs.db
+*.user
+*.suo
+*.cache
+_ReSharper.*
+[Bb]in
+[Oo]bj
